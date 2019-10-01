@@ -1,0 +1,74 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: green;
+  font-family: helvetica;
+}
+
+h2 {
+  color: blue;
+  font-family: helvetica;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  color:blue;
+  font-family: helvetica;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: lightblue;
+  text-align: center;
+  padding: 19px 23px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #128;
+}
+
+.active {
+  background-color: red;
+}
+
+img {
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+#vraag {
+  color: #C508C8
+}
+
+.tekst {
+  color: #D80C0C
+}
+.memenaam{
+  color: #147701
+}
+
+.uitleg{
+  color: #6F1E1E
+}
