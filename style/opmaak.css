@@ -72,3 +72,22 @@ table, th, td {
 .uitleg{
   color: #6F1E1E
 }
+.andere_kant{
+  margin-left: 1000px;
+}
+#title{
+  border:double 50px #b30000;
+  border-radius: 900px;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:20px;
+  padding-bottom:20px;
+  text-align: center;
+  margin-left:500px;
+  margin-right: 500px
+}
+
+.parag{
+  margin-left: 50px;
+  margin-right: 850px;
+}
